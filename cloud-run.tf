@@ -12,5 +12,4 @@ resource "google_cloud_run_service" "default" {
     percent         = 100
     latest_revision = true
   }
-  //depends_on = [google_project_service.cloudrun_api]
 }
