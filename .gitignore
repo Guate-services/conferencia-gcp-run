@@ -2,3 +2,4 @@ gcp-credentials.json
 .terraform*
 nodejs-docs-samples
 terraform.tfstate*
+node_modules
