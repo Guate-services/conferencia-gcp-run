@@ -19,7 +19,7 @@ git clone <repo-name>
 3. Agregar variables requeridas en local.tf
 4. Hacer login hacia tu cuenta de GCP `gcloud auth application-default login`.
 5. Construir y subir la imagen de docker a un registry en GCP `gcloud builds submit --tag gcr.io/<gcp-project-Id>/pubsub`
-6. Terraform plan y apply.
+6. `Terraform plan y apply.`
 
 ## Uso
 
